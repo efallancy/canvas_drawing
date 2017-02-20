@@ -9,7 +9,7 @@ TLDR;
 ---
 >First and foremost, just render or open the index file. Run or play with it as it is by pressing down your mouse or trackpad to draw on the canvas and if you feel like tinkering around with Leap Motion controller, just connect the device and it will automatically detect it and you are good to go to draw on the canvas.
 
-##### Remarks
+### Remarks
 - Improvements needed to be done onto the Leap Motion controller.
 - That being said, this is still a work-in-progress.
 
